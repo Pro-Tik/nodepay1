@@ -1,0 +1,5 @@
+pip install asyncio
+pip install aiohttp
+pip install uuid
+pip install cloudscraper
+pip install loguru
